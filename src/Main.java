@@ -1,3 +1,15 @@
+// ============================================
+// Project  : Mini Search Engine
+// Author   : Anza Nawaz
+// ID       : [L1F24BSSE0178]
+// Course   : Data Structures and Algorithms
+// Semester : 4th — BS Software Engineering
+// Version/Phase  : 2.0
+// Date     : 15,June 2026
+// ============================================
+
+
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -35,7 +47,6 @@ class DocumentParser {
                 for (String part : parts) {
 
                     // If part contains a hyphen, index the whole hyphenated word too
-                    // This fixes Query #6: "boundary-layer"
                     if (part.contains("-")) {
                         String hyphenated = part.replaceAll("[^a-zA-Z0-9\\-]", "").toLowerCase();
                         if (!hyphenated.isEmpty() && !hyphenated.equals("-")) {
