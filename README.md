@@ -113,9 +113,8 @@ This project demonstrates:
 * Boolean Query Processing
 * Java Collections Framework
 * File Processing and Parsing
-
-## Author
+  
 
 Anza Nawaz
 
-BS Computer Science
+BS SoftWare Engineering
