@@ -448,10 +448,12 @@ class QueryProcessor {
      * @param results  - list of matching document names
      */
     public void displayResults(String rawQuery, ArrayList<String> results) {
+        boolean isSingleWord = !rawQuery.toLowerCase().contains(" and ")
+                && !rawQuery.toLowerCase().contains(" or ");
 
-        System.out.println("\n╔══════════════════════════════════════════════════╗");
+        System.out.println("\n══════════════════════════════════════════════════");
         System.out.println("  Query: \"" + rawQuery + "\"");
-        System.out.println("╚══════════════════════════════════════════════════╝");
+        System.out.println("══════════════════════════════════════════════════");
 
         if (results.isEmpty()) {
             System.out.println("  No documents found for this query.");
@@ -465,10 +467,27 @@ class QueryProcessor {
         for (int i = 0; i < results.size(); i++) {
 
             String docName = results.get(i);
+            int freq = 0;
 
-            System.out.println("  ┌─────────────────────────────────────────────┐");
-            System.out.println("  │  Result " + (i + 1) + ": " + docName);
-            System.out.println("  └─────────────────────────────────────────────┘");
+            if (isSingleWord) {
+                ArrayList<DocumentEntry> freqList = index.search(rawQuery.toLowerCase().trim());
+
+                for (DocumentEntry e : freqList) {
+                    if (e.docName.equals(docName)) {
+                        freq = e.frequency;
+                        break;
+                    }
+                }
+            } else {
+                freq = 0; // AND / OR queries ke liye ignore
+            }
+
+
+            System.out.println(
+                    "    Result " + (i + 1) +
+                            ": " + docName +
+                            " (Frequency: " + freq + ")"
+            );
 
             // NEW: Fetch and display full document content
             if (documentStore.containsKey(docName)) {
@@ -513,9 +532,9 @@ public class Main {
         // This allows QueryProcessor to fetch and display document content.
         HashMap<String, Document> documentStore = new HashMap<>();
 
-        System.out.println("╔══════════════════════════════════════════════════╗");
-        System.out.println("║          Mini Search Engine — Loading...         ║");
-        System.out.println("╚══════════════════════════════════════════════════╝\n");
+        System.out.println("══════════════════════════════════════════════════");
+        System.out.println("          Mini Search Engine — Loading...         ");
+        System.out.println("══════════════════════════════════════════════════\n");
 
         // ── Phase 1 + 2: Parse & Index all 50 documents ────────
         int successCount = 0;
@@ -544,7 +563,7 @@ public class Main {
         }
 
         // FIX 6: Show actual count — not hardcoded "3"
-        System.out.println("\n✅ Indexing complete!");
+        System.out.println("\n Indexing complete!");
         System.out.println("   Documents indexed : " + successCount);
         System.out.println("   Unique words      : " + index.getTotalUniqueWords());
 
@@ -554,17 +573,17 @@ public class Main {
         // ── Live Search Loop ────────────────────────────────────
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n╔══════════════════════════════════════════════════╗");
-        System.out.println("║            MINI SEARCH ENGINE — Ready            ║");
-        System.out.println("╠══════════════════════════════════════════════════╣");
-        System.out.println("║  Commands:                                       ║");
-        System.out.println("║   • Single word  : flow                          ║");
-        System.out.println("║   • AND query    : flow AND stream               ║");
-        System.out.println("║   • OR query     : velocity OR speed             ║");
-        System.out.println("║   • Multi-AND    : the AND boundary AND layer    ║");
-        System.out.println("║   • Show index   : showindex                     ║");
-        System.out.println("║   • Exit         : exit                          ║");
-        System.out.println("╚══════════════════════════════════════════════════╝\n");
+        System.out.println("\n═════════════════════════════════════════════════");
+        System.out.println("            MINI SEARCH ENGINE — Ready            ");
+        System.out.println("══════════════════════════════════════════════════");
+        System.out.println("  Commands:                                       ");
+        System.out.println("   • Single word  : flow                          ");
+        System.out.println("   • AND query    : flow AND stream               ");
+        System.out.println("   • OR query     : velocity OR speed             ");
+        System.out.println("   • Multi-AND    : the AND boundary AND layer    ");
+        System.out.println("   • Show index   : showindex                     ");
+        System.out.println("   • Exit         : exit                          ");
+        System.out.println("══════════════════════════════════════════════════\n");
 
         while (true) {
 
