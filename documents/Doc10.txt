@@ -1,0 +1,8 @@
+<DOCNO> Doc10 </DOCNO>
+<TEXT>
+trees are hierarchical data structures with nodes and edges .
+a binary tree has at most two children per node .
+binary search trees allow fast searching and sorting .
+avl trees are self balancing binary search trees .
+tree traversal methods include inorder preorder and postorder .
+</TEXT>

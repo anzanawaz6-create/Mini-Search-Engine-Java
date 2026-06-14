@@ -1,0 +1,8 @@
+<DOCNO> Doc33 </DOCNO>
+<TEXT>
+wireless networks use radio signals to connect devices .
+wifi is a widely used wireless networking technology .
+mobile networks allow smartphones to connect to the internet .
+wireless security protocols protect data in wireless networks .
+the speed and range of wireless networks keep improving .
+</TEXT>

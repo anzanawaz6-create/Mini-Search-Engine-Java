@@ -1,0 +1,8 @@
+<DOCNO> Doc30 </DOCNO>
+<TEXT>
+software engineering is the process of designing and building software .
+software engineers use programming languages and development tools .
+version control systems help teams collaborate on code .
+testing and debugging are important parts of software development .
+software engineering students learn programming algorithms and design .
+</TEXT>

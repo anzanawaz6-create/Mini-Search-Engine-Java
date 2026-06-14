@@ -1,0 +1,8 @@
+<DOCNO> Doc11 </DOCNO>
+<TEXT>
+search engines process millions of documents every day .
+indexing helps users find information quickly and efficiently .
+google is the most widely used search engine in the world .
+search engines use crawlers to discover new web pages .
+the search index stores information about all indexed pages .
+</TEXT>

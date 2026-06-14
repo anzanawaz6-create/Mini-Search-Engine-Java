@@ -1,0 +1,8 @@
+<DOCNO> Doc13 </DOCNO>
+<TEXT>
+boolean search allows users to combine keywords with operators .
+the and operator finds documents containing both keywords .
+the or operator finds documents containing either keyword .
+boolean queries are used in library and database search systems .
+search engines support advanced boolean query processing .
+</TEXT>

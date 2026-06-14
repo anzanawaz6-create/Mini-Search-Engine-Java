@@ -1,0 +1,8 @@
+<DOCNO> Doc48 </DOCNO>
+<TEXT>
+clustering groups similar data points together without labels .
+k means clustering is a popular unsupervised learning algorithm .
+clustering is used in customer segmentation and anomaly detection .
+the number of clusters must be chosen carefully for good results .
+clustering algorithms use distance measures to group data points .
+</TEXT>

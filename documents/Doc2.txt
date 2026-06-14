@@ -1,0 +1,8 @@
+<DOCNO> Doc2 </DOCNO>
+<TEXT>
+cricket is the most popular sport in pakistan .
+millions of fans watch cricket matches every day .
+the players train very hard to improve their skills .
+pakistan has produced many world class cricket players .
+cricket tournaments are held every year in different countries .
+</TEXT>

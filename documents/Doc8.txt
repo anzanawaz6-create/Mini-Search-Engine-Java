@@ -1,0 +1,8 @@
+<DOCNO> Doc8 </DOCNO>
+<TEXT>
+a stack follows the last in first out principle .
+stacks are used in function call management .
+the push operation adds an element to the top of the stack .
+the pop operation removes the top element from the stack .
+stacks are used in expression evaluation and parsing .
+</TEXT>

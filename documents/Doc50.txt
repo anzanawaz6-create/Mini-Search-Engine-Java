@@ -1,0 +1,8 @@
+<DOCNO> Doc50 </DOCNO>
+<TEXT>
+reinforcement learning trains agents to make decisions through rewards .
+the agent learns by interacting with the environment over time .
+reinforcement learning is used in game playing and robotics .
+deep reinforcement learning combines neural networks with reinforcement learning .
+algorithms and data structures are fundamental to machine learning systems .
+</TEXT>

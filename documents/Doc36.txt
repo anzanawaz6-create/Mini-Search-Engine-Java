@@ -1,0 +1,8 @@
+<DOCNO> Doc36 </DOCNO>
+<TEXT>
+databases store and organize large amounts of structured data .
+relational databases use tables rows and columns to store data .
+sql is the standard language for querying relational databases .
+database indexes improve the speed of data retrieval operations .
+popular databases include mysql postgresql and oracle .
+</TEXT>

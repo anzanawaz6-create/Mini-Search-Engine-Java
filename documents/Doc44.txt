@@ -1,0 +1,8 @@
+<DOCNO> Doc44 </DOCNO>
+<TEXT>
+phishing attacks trick users into revealing sensitive information .
+attackers send fake emails pretending to be trusted organizations .
+users should verify the sender before clicking on links .
+two factor authentication adds an extra layer of security .
+awareness and training help users recognize phishing attempts .
+</TEXT>

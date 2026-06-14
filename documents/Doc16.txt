@@ -1,0 +1,8 @@
+<DOCNO> Doc16 </DOCNO>
+<TEXT>
+artificial intelligence enables machines to perform intelligent tasks .
+ai systems can learn from data and improve over time .
+natural language processing allows computers to understand text .
+ai is used in search engines recommendation systems and robotics .
+the field of artificial intelligence is growing very rapidly .
+</TEXT>

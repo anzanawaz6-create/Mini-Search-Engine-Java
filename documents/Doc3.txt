@@ -1,0 +1,8 @@
+<DOCNO> Doc3 </DOCNO>
+<TEXT>
+the cricket world cup is held every four years .
+teams from many countries participate in the world cup .
+pakistan has won the cricket world cup in the past .
+the world cup matches attract millions of viewers worldwide .
+cricket fans celebrate when their team wins the world cup .
+</TEXT>

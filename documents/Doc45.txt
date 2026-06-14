@@ -1,0 +1,8 @@
+<DOCNO> Doc45 </DOCNO>
+<TEXT>
+ethical hacking involves testing systems to find vulnerabilities .
+ethical hackers use the same techniques as malicious hackers .
+organizations hire ethical hackers to improve their security .
+penetration testing identifies weaknesses before attackers can exploit them .
+ethical hacking requires deep knowledge of networks and programming .
+</TEXT>

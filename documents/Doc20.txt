@@ -1,0 +1,8 @@
+<DOCNO> Doc20 </DOCNO>
+<TEXT>
+robotics combines artificial intelligence and mechanical engineering .
+robots are used in manufacturing healthcare and exploration .
+ai powered robots can make decisions based on sensor data .
+robot programming requires knowledge of algorithms and data structures .
+the future of robotics involves intelligent autonomous machines .
+</TEXT>

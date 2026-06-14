@@ -1,0 +1,8 @@
+<DOCNO> Doc29 </DOCNO>
+<TEXT>
+object oriented programming organizes code into classes and objects .
+encapsulation hides the internal details of a class .
+inheritance allows a class to reuse code from another class .
+polymorphism allows objects to take many different forms .
+oop makes software easier to design maintain and extend .
+</TEXT>

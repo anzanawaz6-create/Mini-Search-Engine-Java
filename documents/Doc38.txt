@@ -1,0 +1,8 @@
+<DOCNO> Doc38 </DOCNO>
+<TEXT>
+database indexing speeds up data retrieval operations significantly .
+a database index is similar to an index in a book .
+indexes are built on columns that are frequently searched .
+hash indexes provide very fast lookup for exact match queries .
+tree based indexes support range queries and sorting operations .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc35 </DOCNO>
+<TEXT>
+network security protects computer systems from cyber threats .
+firewalls monitor and control incoming and outgoing network traffic .
+encryption protects data during transmission over networks .
+intrusion detection systems identify suspicious network activity .
+network administrators are responsible for maintaining security .
+</TEXT>

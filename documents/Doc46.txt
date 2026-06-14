@@ -1,0 +1,8 @@
+<DOCNO> Doc46 </DOCNO>
+<TEXT>
+machine learning algorithms learn from data to make predictions .
+training data is used to build machine learning models .
+the accuracy of a model depends on the quality of training data .
+machine learning is used in fraud detection and recommendation systems .
+data scientists use python and java for machine learning projects .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc28 </DOCNO>
+<TEXT>
+algorithms are step by step procedures for solving problems .
+sorting algorithms arrange data in a specific order .
+searching algorithms find elements in a data structure .
+the time complexity of an algorithm measures its efficiency .
+choosing the right algorithm is important for performance .
+</TEXT>

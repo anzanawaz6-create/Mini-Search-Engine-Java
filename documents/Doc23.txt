@@ -1,0 +1,8 @@
+<DOCNO> Doc23 </DOCNO>
+<TEXT>
+pakistan has a growing technology and software industry .
+many software companies are operating in karachi and lahore .
+pakistani software engineers are working in top global companies .
+the government is investing in technology education and training .
+pakistan produces thousands of software engineering graduates every year .
+</TEXT>

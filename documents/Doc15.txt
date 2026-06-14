@@ -1,0 +1,8 @@
+<DOCNO> Doc15 </DOCNO>
+<TEXT>
+search ranking determines the order of search results .
+relevant documents are ranked higher in search results .
+word frequency is one factor used in search ranking .
+search engines use many signals to determine relevance .
+improving search ranking is called search engine optimization .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc43 </DOCNO>
+<TEXT>
+malware is malicious software designed to harm computer systems .
+viruses worms and trojans are common types of malware .
+antivirus software detects and removes malware from computers .
+users should avoid downloading files from untrusted sources .
+regular software updates help protect against malware attacks .
+</TEXT>

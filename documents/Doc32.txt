@@ -1,0 +1,8 @@
+<DOCNO> Doc32 </DOCNO>
+<TEXT>
+the internet allows people to communicate and share information .
+websites and web applications run on internet servers .
+the world wide web is a system of linked documents .
+internet protocols like http and tcp ip enable communication .
+billions of people use the internet every day worldwide .
+</TEXT>

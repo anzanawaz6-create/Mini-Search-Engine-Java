@@ -1,0 +1,8 @@
+<DOCNO> Doc34 </DOCNO>
+<TEXT>
+cloud computing delivers computing services over the internet .
+cloud services include storage computing power and databases .
+companies use cloud computing to reduce infrastructure costs .
+major cloud providers include amazon google and microsoft .
+cloud computing enables scalable and flexible it solutions .
+</TEXT>

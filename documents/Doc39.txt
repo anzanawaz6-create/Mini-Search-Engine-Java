@@ -1,0 +1,8 @@
+<DOCNO> Doc39 </DOCNO>
+<TEXT>
+data mining extracts useful patterns from large datasets .
+data mining techniques include classification clustering and regression .
+businesses use data mining to discover trends and make decisions .
+data mining requires knowledge of statistics and algorithms .
+large databases are essential for effective data mining operations .
+</TEXT>

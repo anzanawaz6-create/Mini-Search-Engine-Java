@@ -1,0 +1,8 @@
+<DOCNO> Doc19 </DOCNO>
+<TEXT>
+natural language processing enables computers to understand human language .
+nlp is used in chatbots translation and sentiment analysis .
+tokenization is a key step in natural language processing .
+nlp algorithms analyze grammar syntax and meaning of text .
+modern nlp systems use deep learning and large language models .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc7 </DOCNO>
+<TEXT>
+a linked list is a linear data structure .
+each node in a linked list contains data and a pointer .
+linked lists are used to implement stacks and queues .
+insertion and deletion in linked lists is very efficient .
+linked lists do not require contiguous memory allocation .
+</TEXT>

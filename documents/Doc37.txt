@@ -1,0 +1,8 @@
+<DOCNO> Doc37 </DOCNO>
+<TEXT>
+nosql databases store unstructured and semi structured data .
+nosql databases are used for big data and real time applications .
+mongodb is a popular document oriented nosql database .
+nosql databases provide high scalability and flexibility .
+choosing between sql and nosql depends on application requirements .
+</TEXT>

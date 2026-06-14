@@ -1,0 +1,8 @@
+<DOCNO> Doc31 </DOCNO>
+<TEXT>
+computer networks connect devices to share data and resources .
+the internet is the largest computer network in the world .
+network protocols define rules for data communication .
+routers and switches are key devices in computer networks .
+network security protects data from unauthorized access .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc49 </DOCNO>
+<TEXT>
+neural networks are inspired by the structure of the human brain .
+a neural network consists of layers of interconnected neurons .
+the training process adjusts weights to minimize prediction errors .
+deep neural networks can learn complex patterns from large datasets .
+neural networks are used in speech recognition and image classification .
+</TEXT>

@@ -1,0 +1,8 @@
+<DOCNO> Doc12 </DOCNO>
+<TEXT>
+an inverted index maps words to the documents containing them .
+inverted indexes are the backbone of modern search engines .
+building an index requires tokenization and parsing of documents .
+search queries are matched against the inverted index .
+the inverted index allows very fast retrieval of documents .
+</TEXT>

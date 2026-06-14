@@ -1,0 +1,8 @@
+<DOCNO> Doc47 </DOCNO>
+<TEXT>
+classification algorithms predict which category data belongs to .
+decision trees are simple and interpretable classification models .
+random forests combine many decision trees for better accuracy .
+support vector machines are powerful classification algorithms .
+classification is used in spam detection and image recognition .
+</TEXT>

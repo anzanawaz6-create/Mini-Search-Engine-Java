@@ -1,0 +1,8 @@
+<DOCNO> Doc6 </DOCNO>
+<TEXT>
+data structures are important in computer science .
+hash tables provide fast searching and retrieval .
+arrays store elements in contiguous memory locations .
+linked lists allow dynamic memory allocation .
+choosing the right data structure improves performance .
+</TEXT>

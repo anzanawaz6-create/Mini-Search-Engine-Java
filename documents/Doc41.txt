@@ -1,0 +1,8 @@
+<DOCNO> Doc41 </DOCNO>
+<TEXT>
+cybersecurity protects computer systems and networks from attacks .
+hackers use various techniques to gain unauthorized access .
+strong passwords and encryption are basic security measures .
+cybersecurity professionals monitor systems for threats .
+organizations invest heavily in cybersecurity to protect data .
+</TEXT>

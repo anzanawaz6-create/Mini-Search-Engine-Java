@@ -1,0 +1,8 @@
+<DOCNO> Doc27 </DOCNO>
+<TEXT>
+python is a popular high level programming language .
+python is used in data science machine learning and automation .
+python has a simple and readable syntax for beginners .
+python supports many libraries for scientific computing .
+python is one of the most popular languages for ai development .
+</TEXT>

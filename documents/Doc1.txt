@@ -1,0 +1,8 @@
+<DOCNO> Doc1 </DOCNO>
+<TEXT>
+pakistan won the cricket match against india .
+the team played very well and scored many runs .
+the captain led the team with great skill .
+pakistan cricket team is known for its fast bowlers .
+the match was played in lahore stadium .
+</TEXT>

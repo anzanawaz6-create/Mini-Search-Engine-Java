@@ -1,0 +1,8 @@
+<DOCNO> Doc9 </DOCNO>
+<TEXT>
+a queue follows the first in first out principle .
+queues are used in scheduling and buffering operations .
+elements are added at the rear of the queue .
+elements are removed from the front of the queue .
+queues are widely used in operating systems and networking .
+</TEXT>

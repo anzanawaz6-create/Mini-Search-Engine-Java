@@ -1,0 +1,8 @@
+<DOCNO> Doc14 </DOCNO>
+<TEXT>
+web crawlers automatically browse the internet to index pages .
+a crawler follows links from one page to another .
+crawled pages are processed and added to the search index .
+search engines update their indexes regularly using crawlers .
+efficient crawling is essential for maintaining a current index .
+</TEXT>

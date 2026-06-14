@@ -1,0 +1,8 @@
+<DOCNO> Doc18 </DOCNO>
+<TEXT>
+deep learning uses neural networks with many layers .
+neural networks are inspired by the human brain structure .
+deep learning has achieved great success in image and speech recognition .
+training deep learning models requires large amounts of data .
+deep learning is used in self driving cars and medical diagnosis .
+</TEXT>

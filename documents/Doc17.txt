@@ -1,0 +1,8 @@
+<DOCNO> Doc17 </DOCNO>
+<TEXT>
+machine learning is a branch of artificial intelligence .
+machine learning algorithms learn patterns from training data .
+supervised learning uses labeled data to train models .
+unsupervised learning finds hidden patterns in unlabeled data .
+machine learning is used in image recognition and spam detection .
+</TEXT>

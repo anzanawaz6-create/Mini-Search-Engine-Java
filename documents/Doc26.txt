@@ -1,0 +1,8 @@
+<DOCNO> Doc26 </DOCNO>
+<TEXT>
+java is an object oriented programming language .
+java programs are compiled into bytecode and run on the jvm .
+java is widely used in web development and enterprise applications .
+object oriented programming uses classes objects and inheritance .
+java supports data structures through its collections framework .
+</TEXT>
